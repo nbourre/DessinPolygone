@@ -1,3 +1,7 @@
+/**
+Programme permettant de dessiner des polygones aléatoirement.
+*/
+
 Polygone poly;
 
 ArrayList<Polygone> polys;
